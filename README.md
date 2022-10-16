@@ -11,3 +11,5 @@ Day 4 - [Finanace App](https://github.com/DysonThomas/Finance-App)
 Day 5 -[Random UI](https://github.com/DysonThomas/NFTUI)
 
 Day 6 -[Medical Mobile App](https://github.com/DysonThomas/Medical-Mobile-App)
+
+Day 7 -[crypto](https://github.com/DysonThomas/crypto)
