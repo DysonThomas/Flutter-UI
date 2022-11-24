@@ -1,4 +1,4 @@
-# 30-Days-Challange
+# 10-Days-Challange
 
 Day 1 - [Music Player](https://github.com/DysonThomas/Music-Player-UI)
 
