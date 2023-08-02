@@ -1,4 +1,4 @@
-# 10-Days-Challange
+# Flutter UI For Learning
 
 Day 1 - [Music Player](https://github.com/DysonThomas/Music-Player-UI)
 
